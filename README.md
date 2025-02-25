@@ -29,6 +29,6 @@ The following transformations were performed using SQL:
 
 ## Dataset  
 - The dataset was sourced from **Kaggle**.  
-- [Click here to access the dataset]([YOUR_KAGGLE_LINK_HERE](https://www.kaggle.com/datasets/swsw1717/nashville-housing-sql-project)).  
+- [Click here to access the dataset](https://www.kaggle.com/datasets/swsw1717/nashville-housing-sql-project).  
 
 
